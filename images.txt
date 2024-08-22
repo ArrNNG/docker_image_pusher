@@ -1,6 +1,6 @@
 #支持私库
 #支持指定架构
 --platform=linux/arm64 openmetadata/postgresql:1.4.7
---platform=linux/arm64 elasticsearch/elasticsearch
+--platform=linux/arm64 docker.elastic.co/elasticsearch/elasticsearch:8.10.2
 --platform=linux/arm64 openmetadata/server:1.4.7
 --platform=linux/arm64 openmetadata/ingestion:1.4.7
