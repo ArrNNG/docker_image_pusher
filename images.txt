@@ -1,3 +1,3 @@
 #支持私库
 #支持指定架构
---platform=linux/x86_64  halohub/halo
+--platform=linux/x86_64  halohub/halo:2.20
